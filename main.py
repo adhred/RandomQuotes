@@ -36,4 +36,4 @@ while i == 1:
     i = 0
 
 if st.button('Again'):
-    i = 0
+    i = 1
